@@ -1,0 +1,5 @@
+{
+  "url": "https://example.com/", // site of your application, in non webgl build use any
+  "name": "Trading Bot", // project name, will be displayed in wallet 
+  "iconUrl": "https://example.com/logo.png" // project logo, will be displayed in wallet 
+}
