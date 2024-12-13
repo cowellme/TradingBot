@@ -1,5 +1,5 @@
 {
-  "url": "https://t.me/dsfaerwfbot", // site of your application, in non webgl build use any
-  "name": "Trading Bot", // project name, will be displayed in wallet 
-  "iconUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNTYx/z/G60AAOSw5dNWols1/$_57.JPG?set_id=880000500F" // project logo, will be displayed in wallet 
+  "url": "https://t.me/dsfaerwfbot",
+  "name": "Trading Bot", 
+  "iconUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNTYx/z/G60AAOSw5dNWols1/$_57.JPG?set_id=880000500F"
 }
